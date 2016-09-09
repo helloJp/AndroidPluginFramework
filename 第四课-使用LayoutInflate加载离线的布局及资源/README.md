@@ -1,2 +1,0 @@
-#Android加载插件apk中的Resource资源
-见第三课的说明
